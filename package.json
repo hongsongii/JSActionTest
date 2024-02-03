@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hongsongii/JSActionTest/issues"
   },
-  "homepage": "https://github.com/hongsongii/JSActionTest#readme"
+  "homepage": "https://github.com/hongsongii/JSActionTest#readme",
+  "dependencies": {
+    "actions": "^1.3.0"
+  }
 }
